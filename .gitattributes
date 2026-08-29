@@ -1,0 +1,12 @@
+# This file is used to override language statistics
+* text=auto eol=lf
+*.js linguist-detectable
+*.jpeg binary
+
+*.min.css linguist-generated
+* text=auto
+
+public/**/*.html linguist-vendored
+*.bat text eol=crlf
+*.md linguist-documentation
+node_modules/* linguist-vendored
