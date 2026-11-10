@@ -1,0 +1,8 @@
+.next/
+build/
+*.tgz
+.env
+.pnpm-store/
+*.log
+.env.local
+_site/
